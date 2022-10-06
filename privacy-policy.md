@@ -3,8 +3,8 @@ Privacy Policy
 
 ### Introduction  
 Our privacy policy will help you understand what information we collect at MMA Workouts, how MMA Workouts uses it, and what choices you have.
-MMA Workouts built the MMA Workouts app as a free app. This SERVICE is provided by MMA Workouts at no cost and is intended for use as is.
-If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. We do not knowingly collect personal identifiable information
+Maslic Djordje built the MMA Workouts app as a free app. This SERVICE is provided by MMA Workouts at no cost and is intended for use as is.
+If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. We do not knowingly collect personal identifiable information.
 
 ### Information Collection and Use  
  We do not knowingly collect personal identifiable information
